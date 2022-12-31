@@ -10,3 +10,6 @@ Prb of a image ![386451_arch linux_archlinux_icon](https://user-images.githubuse
 
 
 Este es una prueba desde el repo de GitHub
+
+
+Prueba desde Git local
